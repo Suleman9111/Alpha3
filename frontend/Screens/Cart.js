@@ -37,18 +37,7 @@ const Cart = ({ route, navigation }) => {
     //--------------------------------CART ITEMS--------------------------------------------
 
     const displayCartItems = async () => {
-        //handleLogin();
-        // const response = await fetch("http://192.168.1.6:3000/cartItems", {
-        //     method: "POST",
-        //     body: JSON.stringify({
-        //         creatorId: creatorId,
-        //     }),
-        //     headers: { "Content-Type": "application/json" },
-        // });
-        // const data5 = await response.json();
 
-        // setdisplayCart(data5);
-        // console.log(data5)
 
         const response = await fetch("http://192.168.1.3:3000/displayCart", {
             method: "POST",
@@ -163,20 +152,3 @@ const Cart = ({ route, navigation }) => {
 
 export default Cart;
 
-{
-    /* <View>
-          <FlatList
-            data={displayCart}
-            renderItem={renderItem}
-            keyExtractor={(displayCart) => displayCart._id}
-          />
-        </View>
-        <View>
-          <Text>Total : {priceSum}</Text>
-        </View>
-        <View>
-          <TouchableOpacity onPress={emptyCart}>
-            <Text>Checkout</Text>
-          </TouchableOpacity>
-        </View> */
-}

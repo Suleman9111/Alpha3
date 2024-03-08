@@ -45,8 +45,10 @@ const Chat = ({ route, navigation }) => {
         console.log("Seacr pressed")
     }
 
+    //------------------------------------- Display Users --------------------------------
+
+
     const displayUsers = async () => {
-        //handleLogin();
         const response = await fetch("http://192.168.1.3:3000/users", {
             method: "POST",
             body: JSON.stringify({
@@ -62,6 +64,9 @@ const Chat = ({ route, navigation }) => {
     useEffect(() => {
         displayUsers();
     });
+
+    //------------------------------------- Render Item --------------------------------
+
 
     const renderItem = ({ item }) => (
         <View style={{ borderRadius: 20, alignItems: 'center' }}>

@@ -14,8 +14,7 @@ const screenWidth = screenDimensions.width;
 const screenHeight = screenDimensions.height;
 
 const HomeScreen = () => {
-    // const imgSource = require("./assets/sofa.png")
-    // const chairsource = require("./assets/chair.png")
+
 
     const [findProduct, setfindProduct] = useState("")
 
@@ -24,7 +23,6 @@ const HomeScreen = () => {
     };
 
 
-    console.log("helo")
 
     return (
         <SafeAreaView style={{ flex: 1, backgroundColor: "white" }}>
