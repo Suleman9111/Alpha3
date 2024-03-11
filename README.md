@@ -20,7 +20,8 @@ yarn start
 
 ## Step 2: Start your Application
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. ![WhatsApp Image 2024-03-11 at 00 14 01](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/186c9914-4c2f-48f7-a128-16e84e0efc44)
+Run the following command to start your _Android_ or _iOS_ app:
 
 ### For Android
 
@@ -78,3 +79,9 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # Alpha3
+![WhatsApp Image 2024-03-11 at 00 14 00 (1)](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/c3126468-ad61-41da-a98d-a264c82a7c7e)
+![WhatsApp Image 2024-03-11 at 00 14 00](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/7996acaa-0bac-4f5e-a019-3ed26d57dd79)
+![Whats![WhatsApp Image 2024-03-11 at 00 13 57](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/bcb14058-b35f-423f-873d-0ec09c39c690)
+App ![WhatsApp Image 2024-03-11 at 00 13 58](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/9f037a58-030e-4ddc-9130-5962d93445a2)
+Image 2024-03-11 at 00 13 59](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/1![WhatsApp Image 2024-03-11 at 00 13 59 (1)](https://github.com/Suleman9111/Shifa-Furniture/assets/64106003/0a70ca50-ba97-46e9-baa3-9f8c2eaf0b3a)
+12bdc62-59c4-4a14-be13-377f5494e821)
